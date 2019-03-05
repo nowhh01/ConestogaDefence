@@ -3,11 +3,11 @@
 # Description
 Top-down tower defence game where player places towers to protect from enemies.<br />
 
-3 Towers<br />
-1 map<br />
-1 kind of enemy<br />
-available to upgrade and sell towers<br />
-available to set sound volume<br />
+* 3 Towers - green, red, slowdown<br />
+* 1 map<br />
+* 1 kind of enemy<br />
+* available to upgrade and sell towers<br />
+* available to set sound volume<br />
 
 * How to play<br />
 Click play button and select one of star buttons
